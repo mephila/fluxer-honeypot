@@ -38,7 +38,7 @@ node.js 22.13 or newer (check with node --version), a second fluxer account to b
 
 ***step 3:*** grab the ids
 
-with developer mode on you can right click stuff and hit "copy id". you need the id of every server you want protected (GUILD_IDS), a private log channel for the bot (LOG_CHANNEL_ID), and you + your mods + any alts (ALLOW_IDS). ALLOW_IDS is a whitelist, to be clear.
+with developer mode on you can right click stuff and hit "copy id". you need the id of every server you want protected (GUILD_IDS), a private log channel for the bot (LOG_CHANNEL_ID), and you + your mods + any alts (ALLOW_IDS).
 
 
 ***step 4:*** fill in the settings
