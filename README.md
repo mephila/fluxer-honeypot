@@ -2,7 +2,7 @@
 
 ### this is extremely bare bones.
 
-its basically a trap account for spam users. it sits in your server, and when a spam user dms it, your mod bot bans them from your servers.
+its basically a trap ***account*** (not bot, account) for spam users. it sits in your server, and when a spam user dms it, your mod bot bans them from your servers.
 
 it bans whoever dms it if the dm @'s the honeypot (almost every spam user i've seen does this for no reason), or comes from someone who joined your server in the last 30 mins. anything else (normal dms, dms with links, @'s in channels, friend requests) just gets logged, and any links in a dm get pointed out in the log.
 
