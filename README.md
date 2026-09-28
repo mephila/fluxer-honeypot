@@ -6,7 +6,7 @@ its basically a trap ***account*** (not bot, account) for spam users. it sits in
 
 it bans whoever dms it if the dm @'s the honeypot (almost every spam user i've seen does this for no reason), or comes from someone who joined your server in the last 30 mins. anything else (normal dms, dms with links, @'s in channels, friend requests) just gets logged, and any links in a dm get pointed out in the log.
 
-it also logs every message it gets, since a normal person wouldn't be messaging it anyway. every dm shows up in your log channel (except from people in ALLOW_IDS), and gets saved to a file called messages.log in this folder.
+it also logs every message it gets, since a normal person wouldn't be messaging it anyway. every dm shows up in your log channel (except from people in ALLOW_IDS), and gets saved to a file called messages.log.
 
 the honeypot is a normal user account being run by a script. fluxer's community guidelines (section 6) don't really say if that's allowed or not. i emailed fluxer support and they said they'd let it slide for my case, but that doesn't mean its ok for everyone. so, ya, run it at your own risk.
 
