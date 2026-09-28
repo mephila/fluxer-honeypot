@@ -31,7 +31,7 @@ node.js 22.13 or newer (check with node --version), a second fluxer account to b
 1. make a new fluxer account
 2. give it a name that shows up at the top of the member list (like starting with ! or A)
 3. put something like "automated anti-spam account. don't dm, you could be banned." in its bio
-4. join it to your server. don't give it any roles or perms, or at least, the default member ones.
+4. add it to your server. don't give it any roles or perms, or at least, the default member ones.
 5. to get its token, log into the honeypot in a private window, open devtools (f12), and go to storage > local storage > the fluxer site (on chrome, i genuinely have no idea). copy the token from there. (your HONEYPOT_TOKEN)
 6. close the window but don't log out, it'll reset the token.
 
